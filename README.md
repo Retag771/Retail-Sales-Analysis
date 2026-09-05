@@ -45,7 +45,7 @@ This project simulates a multi-branch retail store and builds a complete analyti
 *Total Sales, Total Profit, AOV, sales trend, top profitable products, and sales/profit by country & payment method.*
 
 ### 📦 Product & Promotion
-<img src="dashboard/3_product_promotion.png" width="850" alt="Product and promotion analysis page">
+<img src="https://github.com/Retag771/Retail-Sales-Analysis/blob/main/Product%26%20Promotion(1).png" width="850" alt="Product and promotion analysis page">
 
 *Inventory turnover, gross margin, profit by category/country/discount band, and promotion performance.*
 
