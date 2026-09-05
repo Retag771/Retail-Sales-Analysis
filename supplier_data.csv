@@ -1,0 +1,51 @@
+﻿supplier_id,supplier_name,contact_person,phone,email,city,country,address,rating,contract_start,status
+1,Hayden and Sons,Lori Poole,01140315374,brewerricky@example.net,Patriciamouth,Liechtenstein,"209 Ortega Prairie Jennifertown, TX 96053",4.26,2022-02-06,Active
+2,"Burgess, Hobbs and Robles",Michael Wright,01524420888,richard13@example.org,South Erictown,Solomon Islands,"74717 Thomas Burg Denisehaven, NY 01627",3.93,2023-12-25,Active
+3,Hardy-Buck,Jack Singh,01547617543,lisaflores@example.net,Burkeland,Martinique,"44341 Catherine Manors Scottfort, MS 93424",3.61,2025-07-18,Active
+4,Flores-Gutierrez,Jamie Lewis,01022130307,nicholas44@example.net,Port Glenport,Martinique,"060 Tina Cliffs Colemanside, IA 89035",3.89,2024-12-23,Active
+5,Galvan PLC,Sarah Nelson,01554157572,michaelfoster@example.net,South Geraldville,Rwanda,"719 Emily Forges Suite 825 New Sharon, CO 10419",3.5,2026-02-28,Active
+6,Watkins-Keller,Sean Johnson,01535505623,william41@example.net,East Dianeview,Botswana,"1166 Andersen Isle Port Amber, MA 67710",3.55,2024-02-10,Active
+7,Gill Group,Erik Joyce,01067958337,laurahale@example.net,Smithside,Qatar,"7863 Michelle Rapid North Frank, MS 63209",4.27,2025-03-11,Active
+8,Rodriguez Ltd,Gregory Nielsen,01278244936,adamsdavid@example.org,Paigebury,Bosnia and Herzegovina,"451 Mercado Prairie Apt. 641 Youngchester, MT 65701",4.05,2023-08-16,Active
+9,"Watson, Jackson and Hoffman",Juan Byrd,01395604286,townsendangela@example.net,Port Jeffrey,Grenada,Unit 5867 Box 6397 DPO AE 39863,4.52,2023-05-25,Active
+10,Sullivan-Stewart,Kayla Morgan,01712000105,johnsonrobert@example.org,New Dennishaven,Algeria,"6921 Kristi Estate West Michealmouth, WA 13670",3.06,2025-11-22,Active
+11,Marshall-Estrada,Sara Smith,01054200679,tammywalker@example.net,North Samuel,Papua New Guinea,"04892 Miller Camp Lake Michael, MP 07520",3.76,2022-02-05,Active
+12,Espinoza-Clark,Steven Harding,01583017736,hgibson@example.org,Calvinview,Vanuatu,"47769 White Views North Calvin, MD 93310",4.79,2025-10-17,Active
+13,Jones-Webster,Anthony Nelson DDS,01620435882,jenseneric@example.org,Lake Ashley,Equatorial Guinea,"29573 Scott Ports Apt. 137 Stephenstown, MN 47765",3.24,2025-08-14,Active
+14,"Orr, Munoz and Hubbard",Joseph Green,01095553963,vperez@example.org,New Ashleyside,Vanuatu,"109 Harris Place Olsonville, KS 51881",3.97,2025-11-23,Active
+15,Stevens-Hartman,Jordan Contreras,01228814671,taylorjames@example.com,Juliaside,Barbados,"3976 Robert Lock Shawnburgh, NM 49106",3.85,2023-12-24,Active
+16,Jordan-Cunningham,Christina Herrera,01490741560,williamsmark@example.org,North Kim,Guinea-Bissau,"0175 Jason Views Kingstad, MT 24088",4.79,2022-08-24,Active
+17,Long LLC,Joshua Wilson,01083042389,hstokes@example.org,Jacksonberg,China,"6776 Fitzgerald Lodge Apt. 540 Turnermouth, TX 58053",3.96,2023-07-02,Active
+18,Osborn and Sons,Jesse Pierce,01485150459,lharper@example.net,West Amanda,French Polynesia,"918 Le Mission East Josephberg, FM 24231",3.12,2022-10-09,Active
+19,Hill Ltd,Tiffany Barker,01179498781,whitejohn@example.org,Lake Michaelfurt,Kenya,"53495 Paul Turnpike Lake Tiffanystad, KS 41563",3.95,2026-03-19,Active
+20,Harris PLC,John Gardner,01987250032,holtkrystal@example.com,Rhodesport,El Salvador,"PSC 8696, Box 9596 APO AE 15071",4.99,2023-12-09,Active
+21,Spence Ltd,Anthony Payne,01743972232,nwhite@example.com,Chandlertown,Slovakia (Slovak Republic),"0299 Lindsey Mission Pattersonborough, NC 59720",3.83,2026-02-15,Active
+22,Baker and Sons,Kara Luna,01858133233,brownnatalie@example.com,Port Bradfort,Libyan Arab Jamahiriya,"029 Joseph Valleys Jennaberg, IA 00924",4.67,2022-01-25,Active
+23,"Martin, Gamble and Dunn",Stacey Bridges,01742256662,savannahmckinney@example.org,Maloneview,Djibouti,"035 Laura Drive Suite 581 Lake Brittneychester, MT 74545",3.12,2022-02-10,Active
+24,Randall-Compton,Lauren Curry,01815625400,simssonya@example.org,Mahoneyberg,Nigeria,"51354 Jones Meadow Suite 545 South Elizabethfurt, OR 49832",3.07,2023-06-09,Active
+25,Mcneil Ltd,Maria Coleman,01957168893,nicolewatkins@example.com,Choifurt,Azerbaijan,"291 William Keys Lucasview, MO 01873",4.22,2023-01-23,Active
+26,Bennett-Gonzalez,Ryan Petty,01278331858,nixondavid@example.org,Walterfurt,Antarctica (the territory South of 60 deg S),"2466 Jones Fords Gatesborough, ID 74800",4.73,2023-12-23,Active
+27,"Whitaker, Peters and Mckenzie",Janet Gonzalez,01767902538,ronaldjacobs@example.com,Lake Stephanie,Benin,"8799 Davila Inlet Pamelamouth, FL 18999",3.77,2023-12-06,Active
+28,Martinez PLC,Deanna Fritz,01844356153,jenniferwood@example.com,Lake Sarah,Singapore,"4886 Johnson Harbor Franciscotown, PR 15644",4.42,2024-12-18,Active
+29,Stanley Group,Warren Ramirez,01867266434,webstermaria@example.org,Kennedyland,Zimbabwe,"81601 Leslie River New Natalie, AS 92856",4.01,2023-01-31,Active
+30,Jones PLC,Kyle Scott,01245303569,mary67@example.net,Gilbertmouth,Zimbabwe,"8752 Brian Square Atkinsonchester, IA 02694",4.63,2021-10-19,Active
+31,Chapman Inc,Douglas Lewis,01290920459,anthonyatkinson@example.org,Petersonfurt,Botswana,"00071 Garcia Lodge Suite 136 Lake Daniel, FL 20737",3.3,2022-11-30,Active
+32,Patterson Inc,John Taylor,01616990208,vwilson@example.org,Mendezview,Congo,"094 Coleman Union Apt. 019 South Matthew, MD 85535",3.82,2025-01-11,Active
+33,"Jones, Vega and Black",Gabrielle Moore,01106331088,zsharp@example.net,Port Sean,Seychelles,"495 Darlene Views Emilyberg, OH 65961",3.9,2023-04-22,Active
+34,"Williams, Underwood and Flores",Elizabeth Nelson,01858695688,mbeard@example.org,East Patricia,Sri Lanka,"583 Huber Crossroad Suite 939 Port Christopher, CA 56238",4.15,2022-05-06,Active
+35,"Owens, Edwards and Davis",Janet Turner,01871883792,sheilacharles@example.com,Richfort,Ghana,"506 Kevin Field Jasmineside, AK 49576",3.94,2025-01-26,Active
+36,"Gonzales, Steele and Smith",Jonathan Harris,01732455300,sararivera@example.net,West Elizabeth,Holy See (Vatican City State),"112 Thomas Brooks Port Jamesborough, NC 19901",4.4,2024-10-05,Active
+37,Moore LLC,Adam Gallagher,01057868994,peterpatel@example.org,East Michaelshire,Ukraine,"40122 Henderson Streets Armstrongview, PR 38090",3.61,2023-01-30,Active
+38,Holmes and Sons,Robert Perez,01568275070,tamara33@example.org,East Codymouth,Guam,"178 Jackson Spur New Breanna, TN 09986",3.07,2025-02-01,Active
+39,Garcia-Rodriguez,Caleb Hartman,01756728481,bishopsarah@example.org,Lake Logan,Bosnia and Herzegovina,"3836 Jeremy Extensions South Matthew, MI 98245",3.98,2023-01-29,Active
+40,Reed Ltd,Miss Pamela Hunt,01478929431,masonserrano@example.net,Boydchester,El Salvador,"50115 Steven Parkway East Patrick, MS 86316",3.52,2025-01-16,Active
+41,Davenport-Rodriguez,Donna Jones,01455629623,fmcdonald@example.com,Dianahaven,Tanzania,"95902 Davis Burg Apt. 462 Lake Sarahbury, MD 62754",4.87,2022-10-04,Active
+42,Stephens-Stone,Christopher Bryant,01456021154,amandaharris@example.net,Masseyton,Marshall Islands,"75834 Medina Camp Galvanmouth, MO 65078",4.14,2022-12-06,Active
+43,Burch Group,Chad Le,01266235230,nicole17@example.com,Clarkburgh,Sierra Leone,"28364 Christopher Stravenue Suite 652 Brownchester, ID 65637",4.48,2023-01-12,Active
+44,"Rogers, Figueroa and Marsh",April Hicks,01272857817,danielsmith@example.org,East Joyceton,Czech Republic,"379 Andrea Springs Suite 375 Dianastad, AR 92015",4.48,2023-03-03,Active
+45,Foster PLC,Brian Jackson,01204167383,johnsonamanda@example.org,Lindaside,Malta,"247 Pruitt Centers Apt. 110 Hugheston, UT 79762",3.3,2026-02-06,Active
+46,"Frazier, Ball and Vargas",Diana Bartlett,01012042322,johnsonmichael@example.com,Kingmouth,Albania,"56954 Jeffrey Heights Mcdonaldport, HI 47989",3.16,2023-07-05,Active
+47,"Turner, Chang and Lawson",William Gonzalez,01503231278,littletara@example.net,North Dianeland,Taiwan,USCGC Reyes FPO AA 22148,4.91,2024-11-05,Active
+48,Stevenson-Mcguire,Carrie Hart,01932825087,jennifer97@example.com,South Kimberlytown,Western Sahara,"54294 Hernandez Square Suite 016 Stevenfurt, GA 26631",3.32,2026-07-08,Active
+49,Morgan LLC,Sean Bowman,01058907481,dana59@example.org,Jacobborough,Indonesia,"69754 Brian Rapid Kevinchester, NC 95527",4.55,2022-06-21,Active
+50,"Arellano, Dunn and Duncan",John Hughes,01124893558,sarahbrady@example.org,Kathyburgh,Zimbabwe,"104 Kevin Hill New Timothy, NE 75447",4.3,2024-01-14,Active

@@ -1,0 +1,31 @@
+﻿promotion_id,promotion_name,promotion_type,discount_percent,minimum_order,start_date,end_date,coupon_code,usage_limit,status
+1,Buy 1 Get 1,Clearance,38,1862.36,2025-11-16,2026-08-13,SALE1,430,Active
+2,Student Offer,Special Offer,37,3924.41,2026-05-12,2026-08-13,SALE2,433,Active
+3,New Year Offer,Seasonal,19,673.81,2025-11-26,2026-08-13,SALE3,494,Active
+4,Limited Time Offer,Seasonal,14,3039.54,2024-10-24,2026-08-13,SALE4,427,Active
+5,New Year Offer,Special Offer,22,1476.55,2024-11-21,2026-08-13,SALE5,379,Active
+6,Student Offer,Discount,34,4527.87,2024-11-19,2026-08-13,SALE6,384,Active
+7,Special Weekend,Discount,44,2449.26,2026-02-09,2026-08-13,SALE7,408,Active
+8,Back to School,Seasonal,17,3235.42,2024-10-20,2026-08-13,SALE8,454,Active
+9,Tech Week,Clearance,6,4648.17,2026-01-10,2026-08-13,SALE9,57,Active
+10,Ramadan Offer,Special Offer,13,1730.88,2026-04-08,2026-08-13,SALE10,327,Active
+11,Anniversary Sale,Clearance,42,3523.46,2026-04-06,2026-08-13,SALE11,105,Active
+12,Holiday Special,Seasonal,21,1432.77,2025-05-18,2026-08-13,SALE12,280,Active
+13,Buy 1 Get 1,Seasonal,26,3689.64,2025-09-04,2026-08-13,SALE13,153,Active
+14,Free Shipping,Seasonal,13,400.89,2026-06-03,2026-08-13,SALE14,243,Active
+15,Weekend Deal,Clearance,38,4912.76,2025-07-01,2026-08-13,SALE15,56,Active
+16,Mega Discount,Seasonal,15,4821.54,2024-10-01,2026-08-13,SALE16,54,Active
+17,Bundle Deal,Clearance,25,100.13,2026-04-06,2026-08-13,SALE17,74,Active
+18,Bundle Deal,Seasonal,32,2830.86,2024-10-28,2026-08-13,SALE18,448,Active
+19,Weekend Deal,Special Offer,50,4731.6,2026-06-24,2026-08-13,SALE19,289,Active
+20,Super Saver,Clearance,27,3234.09,2025-01-30,2026-08-13,SALE20,201,Active
+21,Anniversary Sale,Discount,14,3580.48,2026-04-29,2026-08-13,SALE21,180,Active
+22,Winter Sale,Seasonal,46,4946.2,2024-08-18,2026-08-13,SALE22,101,Active
+23,Student Offer,Special Offer,17,641.06,2026-02-04,2026-08-13,SALE23,341,Active
+24,Special Weekend,Special Offer,10,684.06,2025-08-17,2026-08-13,SALE24,485,Active
+25,Family Pack,Special Offer,6,201.0,2025-12-08,2026-08-13,SALE25,288,Active
+26,Member Discount,Seasonal,12,2479.82,2026-07-01,2026-08-13,SALE26,496,Active
+27,Weekend Deal,Clearance,36,4518.07,2026-03-25,2026-08-13,SALE27,119,Active
+28,Special Weekend,Discount,49,3105.51,2026-07-15,2026-08-13,SALE28,288,Active
+29,Ramadan Offer,Seasonal,45,3139.65,2026-08-05,2026-08-13,SALE29,119,Active
+30,Black Friday,Discount,48,1578.98,2025-08-11,2026-08-13,SALE30,362,Active

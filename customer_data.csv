@@ -1,0 +1,101 @@
+customer_id,name,city,join_date,phone
+1,Willie Tran,Kariland,2025-05-24,01413033617
+2,Jennifer Martinez,Bentleychester,2024-03-25,01226927137
+3,George Stone,Heatherville,2026-07-26,01123874284
+4,Christopher Dickerson,Garciaborough,2023-09-25,01920577202
+5,Brenda Garcia,Terribury,2025-09-17,01882375353
+6,Susan Perez,New Cynthiatown,2026-01-18,01546937880
+7,Tonya Andrews,North Dennis,2024-03-16,01594500841
+8,Robyn Martinez,Haleychester,2024-04-18,01890863269
+9,Mr. Joseph Wong,Davidmouth,2023-12-01,01022382099
+10,Amanda Garcia,Michaelville,2025-09-15,01950883026
+11,Holly Jennings,Coxtown,2025-10-10,01909972636
+12,Kevin Robinson,Mirandafurt,2025-05-31,01560940347
+13,Elizabeth Conrad,Lewisview,2025-05-12,01167277183
+14,Jeffery Brown,Port Jacob,2024-12-20,01268395489
+15,Andrew Simmons,Jamesfurt,2024-08-01,01764005926
+16,Brenda Freeman,Daughertychester,2026-01-25,01379067638
+17,Lori Wiley,Smithstad,2026-05-24,01197934567
+18,Christopher Rivera,South Joannborough,2025-03-19,01203578456
+19,Alexander Butler,Port John,2025-11-26,01650121103
+20,Heather Jones,Lake Katieside,2025-06-23,01395452551
+21,Stephen Hutchinson,East Jacob,2024-08-03,01002564031
+22,Jonathan Jackson,North Calebhaven,2025-07-17,01495186145
+23,Patricia David,Hobbsfurt,2025-08-01,01953206617
+24,Desiree Jackson,New Ronald,2025-03-31,01611263350
+25,Kathleen Jones,Christopherberg,2024-09-30,01088518749
+26,Mathew Horn,East Jessica,2024-12-19,01741909323
+27,Sarah Pope,Sarahport,2024-12-24,01349219761
+28,Anna Jones,Lake Angelica,2024-11-16,01139818905
+29,Kristin Young,Kimberlymouth,2024-03-05,01555618007
+30,Christina Ortiz,Maxfurt,2026-01-17,01056593622
+31,Stacy Scott,Jonesside,2023-11-17,01037074965
+32,Joshua Owen,North Williamview,2023-10-11,01362307650
+33,Linda Clark,Marieland,2023-12-23,01766426126
+34,Kyle Delgado,Port Darren,2024-07-17,01305635668
+35,Steven Martin,Martinezport,2023-12-31,01330777997
+36,Leslie Frey,South Michelletown,2026-03-12,01570250001
+37,Elizabeth Hernandez,West Donna,2025-06-10,01903708294
+38,Brandon Berger,Lake Tommyton,2026-01-01,01560002050
+39,Tammy Lynn,Riveraville,2025-02-08,01043933092
+40,Joshua Smith,Luiston,2024-08-30,01432592261
+41,Suzanne Garcia,Port Phillip,2025-08-09,01655492034
+42,James Fowler,Martinezberg,2026-02-27,01373414916
+43,Barbara Beasley,Port Taylorfort,2023-11-26,01241498706
+44,Jamie Mitchell,East Brittany,2025-03-23,01479087767
+45,John King,West Reneehaven,2025-02-21,01468315162
+46,Austin Walker,Martinezside,2025-07-06,01188148753
+47,Michael Armstrong,Jasonport,2024-03-13,01485336699
+48,Tracy Jones,Kaufmanbury,2026-02-18,01484057161
+49,Jack Brown,Ellisonberg,2025-03-07,01318486676
+50,Vincent Miller,Nelsonstad,2024-12-17,01713891016
+51,Heather Knight,South Samantha,2024-06-08,01590247758
+52,Austin Harris,West Amanda,2023-12-26,01577912617
+53,Barbara Long,West Jeffrey,2026-06-22,01287140786
+54,Kimberly Baker,Andreburgh,2024-08-07,01949425157
+55,Eric Butler DDS,Lisaview,2026-07-01,01090567935
+56,Jeremy Gay,Joelhaven,2025-12-06,01580652973
+57,Albert Woodward,Weeksburgh,2023-10-15,01116319943
+58,Nathan Tanner,West Shellyland,2025-01-30,01964475538
+59,David Smith,North Sandraview,2025-10-13,01184296559
+60,Eric Garcia,Hawkinsside,2025-03-23,01780187106
+61,Justin Waters,North William,2024-03-07,01742202774
+62,Tammy Smith,Jamesstad,2023-12-12,01860629062
+63,Valerie King,Kaylastad,2025-10-23,01697626627
+64,Dawn Ashley,Brittanymouth,2026-01-09,01865550228
+65,Aaron Dalton,Port Jeffrey,2025-07-16,01960540754
+66,Devin Johnston,Lake Steveberg,2024-01-25,01615584739
+67,Timothy Guerrero,Staceyburgh,2023-12-11,01642799889
+68,James Francis Jr.,Jonesville,2024-02-23,01469308857
+69,Dr. Eric Evans,Natalieville,2025-10-05,01631944760
+70,Paige Evans,Alexisfurt,2023-09-29,01534928264
+71,Stephanie Trujillo,Melissaside,2024-05-13,01382591057
+72,Ms. Courtney Beltran,New David,2026-06-19,01238894483
+73,Aaron Murray,Maynardport,2025-02-21,01148762546
+74,Brad Campbell,West Anitaburgh,2024-05-07,01720074656
+75,Bethany Miller,South Paul,2025-06-12,01066142424
+76,Robert Garrett,Fernandezfurt,2024-08-22,01904486863
+77,Casey Weiss,Port Sandraborough,2026-04-17,01204633173
+78,Kristina Williamson,Adamsstad,2025-05-05,01068322265
+79,Denise Robinson,Raymondfurt,2025-12-23,01963231570
+80,Carrie Nelson,West Pattychester,2024-10-08,01828185435
+81,James Williamson,New Alexandra,2025-02-27,01481343792
+82,Brenda Smith,New Tammy,2026-06-15,01979520403
+83,Matthew Cuevas,Ericfort,2025-01-21,01429369226
+84,Dr. Suzanne Mcguire,East James,2024-02-25,01443296724
+85,Kimberly Mathis,New Jeffrey,2024-03-05,01658929057
+86,Jeremy Powers,North Jamesview,2025-07-23,01132265766
+87,Aaron Nunez,Thomasville,2024-12-25,01906432678
+88,David Jones,Jordanmouth,2023-11-30,01760880274
+89,Mr. Ross Ramirez,Andreaport,2023-10-19,01085483443
+90,Amy Sullivan,Sarahview,2024-09-10,01219376475
+91,Jeremy Russell,Port Ann,2026-02-11,01036197460
+92,Karina Ward,Gonzalezstad,2025-03-13,01664762501
+93,Lori Perez,West Ronaldchester,2026-04-10,01632605462
+94,Jennifer Hutchinson,East Scottburgh,2025-12-05,01982617052
+95,Erica Smith,West Kathryn,2024-08-20,01900421964
+96,Bill Webster,Lake Marychester,2026-01-06,01721699938
+97,Zachary Morgan,Lake Codymouth,2024-02-22,01761829507
+98,Kayla Bailey,Traciview,2023-11-09,01454689856
+99,Cameron Reed,Johnnyville,2025-02-17,01807379982
+100,Alison Jordan,New Garyborough,2026-02-26,01340435538

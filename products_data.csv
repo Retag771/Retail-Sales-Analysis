@@ -1,0 +1,101 @@
+﻿product_id,name,category,cost_price,sell_price,stock_qty,brand_id,supplier_id,warranty_months,weight,color,launch_date
+1,Xiaomi Pad 6,Tablet,399.36,550.84,298,20,41,24,3.19,Gold,2024-11-02
+2,MSI Modern,Laptop,972.95,1103.8,189,6,28,36,5.0,Gold,2025-08-07
+3,HP Pavilion,Laptop,2396.19,3591.92,36,19,24,36,7.96,Blue,2025-07-04
+4,Samsung Odyssey,Monitor,2220.5,2476.41,269,7,26,36,0.92,Black,2025-12-13
+5,Xiaomi Pad 6,Tablet,653.16,768.73,40,8,18,12,2.47,White,2023-09-07
+6,USB-C Charger,Accessories,2814.94,4056.32,218,6,9,6,4.61,Black,2025-12-08
+7,iPad Air,Tablet,956.36,1068.49,228,10,34,36,2.63,Gold,2024-09-19
+8,iPad Air,Tablet,1305.82,1854.6,161,11,30,6,4.29,Blue,2024-07-29
+9,USB Flash Drive,Accessories,2767.57,3600.87,83,2,41,12,6.57,White,2022-11-17
+10,Power Bank,Accessories,1130.89,1543.53,7,9,3,12,6.02,Silver,2023-10-24
+11,iPhone 15,Mobile,2866.37,4180.38,245,4,2,24,3.78,Gray,2023-01-15
+12,Acer Aspire,Laptop,2028.19,2556.79,30,6,25,36,4.92,Gray,2026-06-19
+13,HP M24,Monitor,1226.75,1725.72,183,15,5,24,2.86,Gray,2024-04-03
+14,Webcam,Accessories,1411.96,1644.9,185,11,21,6,4.24,Blue,2025-04-10
+15,MacBook Air,Laptop,2228.54,3253.66,60,15,34,6,1.51,Silver,2023-10-28
+16,ASUS ProArt,Monitor,2524.09,3046.85,266,20,31,12,1.84,Gold,2025-11-20
+17,MacBook Air,Laptop,1713.54,2021.8,4,17,46,6,1.14,Blue,2022-01-22
+18,Bluetooth Speaker,Accessories,2319.86,2642.9,283,4,28,36,1.7,Blue,2023-10-29
+19,Lenovo ThinkPad,Laptop,2070.01,2502.41,289,18,32,36,3.56,Gray,2022-03-10
+20,USB-C Charger,Accessories,369.38,513.48,215,10,6,24,0.92,Silver,2023-05-24
+21,iPad Air,Tablet,145.1,193.52,249,13,21,12,7.73,Gold,2025-10-10
+22,Dell 24 Monitor,Monitor,1866.83,2399.08,64,5,9,6,4.9,White,2023-11-08
+23,HP Pavilion,Laptop,2983.75,4357.05,56,16,31,12,4.58,Silver,2024-12-11
+24,Bluetooth Speaker,Accessories,1923.96,2213.53,296,8,25,36,5.68,Gold,2024-09-05
+25,Huawei Nova 13,Mobile,1751.45,2303.68,39,8,30,6,5.0,Gray,2025-02-04
+26,Samsung Galaxy S24,Mobile,2283.5,3381.12,279,13,44,36,1.04,Gold,2025-07-16
+27,Wireless Mouse,Accessories,265.87,296.23,68,12,7,6,6.67,Blue,2023-05-22
+28,Xiaomi Pad 6,Tablet,2966.79,3592.16,221,7,28,24,4.84,Gray,2025-06-08
+29,USB Flash Drive,Accessories,350.87,450.17,110,10,24,24,1.84,Gray,2025-04-25
+30,Lenovo Tab P12,Tablet,569.43,748.74,76,10,27,24,5.39,Gray,2023-05-01
+31,Xiaomi Pad 6,Tablet,150.19,183.87,62,11,39,6,6.7,Silver,2022-07-26
+32,MSI Modern,Laptop,2784.02,4102.56,155,9,32,36,5.68,Silver,2023-03-10
+33,ASUS ProArt,Monitor,182.8,217.53,45,12,42,36,6.47,Gold,2026-04-06
+34,Realme 12,Mobile,109.29,161.46,287,9,35,12,5.58,Blue,2025-05-07
+35,Google Pixel 9,Mobile,1350.09,1601.44,234,7,36,36,3.97,Silver,2024-01-17
+36,Asus VivoBook,Laptop,1817.78,2695.02,3,7,37,12,6.09,Gray,2022-02-13
+37,Samsung Galaxy Tab S9,Tablet,2919.09,3605.29,105,2,3,36,4.95,Gray,2025-11-24
+38,Dell Inspiron,Laptop,1932.93,2573.31,115,6,10,24,2.2,Gold,2021-10-12
+39,Huawei MatePad,Tablet,1703.99,2166.07,270,15,48,36,6.2,Blue,2024-04-10
+40,Oppo Reno 12,Mobile,2137.76,2682.06,206,3,45,12,2.32,Gray,2025-02-07
+41,Wireless Earbuds,Accessories,2611.99,3484.24,103,12,43,6,3.5,Black,2024-06-11
+42,Realme 12,Mobile,793.04,977.61,288,8,9,24,1.48,Black,2025-02-03
+43,Realme 12,Mobile,2393.62,2902.93,110,17,3,24,3.47,Black,2024-10-01
+44,Dell 24 Monitor,Monitor,630.13,727.93,93,15,39,6,0.37,Gray,2025-10-08
+45,Lenovo ThinkPad,Laptop,1368.72,1856.51,44,10,37,36,4.05,Gold,2025-10-30
+46,Acer Aspire,Laptop,2357.98,3124.17,22,3,44,12,0.74,Black,2026-01-20
+47,Mechanical Keyboard,Accessories,2391.11,3394.65,254,19,43,12,6.01,Silver,2026-03-29
+48,Bluetooth Speaker,Accessories,1078.73,1260.49,299,13,35,24,0.41,Black,2026-07-08
+49,Huawei MateBook,Laptop,1959.18,2759.35,52,13,2,12,3.54,Gray,2026-06-20
+50,Oppo Reno 12,Mobile,1225.07,1554.48,119,10,33,24,0.6,Blue,2025-10-24
+51,MSI Modern,Laptop,1583.76,2280.14,254,2,29,12,3.54,Black,2025-08-17
+52,HP Pavilion,Laptop,438.08,529.82,250,8,49,6,2.88,Gold,2024-11-21
+53,Amazon Fire HD,Tablet,1412.78,1593.3,172,10,5,6,7.63,Black,2023-02-03
+54,Power Bank,Accessories,2853.35,3717.2,43,5,43,6,5.04,Silver,2022-11-02
+55,Webcam,Accessories,1572.24,1752.25,157,4,32,24,7.86,White,2021-09-11
+56,iPad Air,Tablet,691.13,998.12,229,4,17,36,1.48,Silver,2022-04-27
+57,iPad Air,Tablet,603.1,862.64,202,9,23,36,1.73,Gray,2024-01-25
+58,BenQ GW2480,Monitor,1883.33,2733.52,221,17,44,6,6.98,Black,2024-07-24
+59,iPhone 15,Mobile,1724.77,2426.27,11,5,47,24,0.45,Gold,2022-01-31
+60,Google Pixel 9,Mobile,1504.33,1993.21,203,2,26,6,5.09,Black,2022-07-19
+61,Gaming Headset,Accessories,508.64,726.33,228,12,14,24,6.56,Blue,2024-12-23
+62,Huawei MateBook,Laptop,2438.83,3030.56,133,14,50,36,5.98,Gray,2022-02-22
+63,Google Pixel 9,Mobile,907.63,1079.3,39,19,15,12,7.34,Gold,2022-08-06
+64,Amazon Fire HD,Tablet,912.49,1297.61,102,2,34,24,5.76,Blue,2023-03-22
+65,Xiaomi Redmi Note 13,Mobile,870.83,1230.74,294,16,39,6,3.26,Blue,2026-06-19
+66,Huawei MateBook,Laptop,2944.82,3786.76,225,16,12,6,6.04,Black,2023-12-27
+67,iPhone 15,Mobile,745.08,973.67,73,14,9,12,6.77,Gray,2025-03-24
+68,MSI Modern,Laptop,985.02,1371.79,120,6,37,12,5.1,Gold,2025-04-16
+69,HP Pavilion,Laptop,1478.4,1818.29,155,3,10,12,5.82,Black,2022-08-06
+70,USB-C Charger,Accessories,1214.28,1673.53,18,3,1,6,5.49,Silver,2023-07-16
+71,MSI Modern,Laptop,2270.54,2689.89,202,8,41,36,1.7,Black,2026-01-21
+72,Mechanical Keyboard,Accessories,2714.04,3753.69,262,14,11,12,3.16,White,2024-05-01
+73,Amazon Fire HD,Tablet,2202.53,2989.55,153,16,20,12,3.59,Gold,2025-12-28
+74,Realme 12,Mobile,831.09,957.42,210,17,3,6,6.61,Black,2025-08-24
+75,Wireless Earbuds,Accessories,1487.04,1645.79,228,8,26,12,2.5,Gold,2022-03-30
+76,MacBook Air,Laptop,2891.9,3600.57,192,7,12,24,1.05,Silver,2021-11-02
+77,MSI Modern,Laptop,848.54,1221.66,236,14,11,24,6.9,Blue,2023-09-15
+78,MacBook Air,Laptop,1183.62,1751.03,210,19,34,12,6.8,Silver,2026-07-25
+79,Xiaomi Pad 6,Tablet,437.78,617.85,284,17,20,12,2.37,Gray,2026-04-25
+80,Google Pixel 9,Mobile,2601.19,3784.42,65,2,13,24,1.18,Blue,2024-03-09
+81,Power Bank,Accessories,1100.63,1633.71,251,10,22,36,5.82,Gray,2021-09-16
+82,Realme 12,Mobile,1148.98,1564.23,160,6,14,36,0.83,Gray,2023-01-29
+83,Wireless Mouse,Accessories,1179.4,1498.39,226,17,27,6,1.89,Blue,2026-02-28
+84,Gaming Headset,Accessories,1670.24,2497.84,141,14,25,6,2.31,White,2025-12-09
+85,ASUS ProArt,Monitor,239.13,285.02,260,4,35,6,7.21,White,2024-09-10
+86,Amazon Fire HD,Tablet,2956.45,3261.45,64,14,17,36,3.2,Black,2024-02-21
+87,Wireless Earbuds,Accessories,1204.51,1482.56,25,15,6,36,6.19,Black,2022-04-03
+88,Dell Inspiron,Laptop,2781.71,3822.35,23,15,16,6,2.92,Silver,2022-06-02
+89,Samsung Galaxy S24,Mobile,930.38,1026.92,267,16,34,24,5.84,Black,2022-11-06
+90,HP Pavilion,Laptop,310.54,451.12,108,5,37,36,3.17,Blue,2025-03-01
+91,iPhone 15,Mobile,751.77,981.35,69,20,32,12,2.88,Gray,2025-12-15
+92,Google Pixel 9,Mobile,2640.53,3244.59,265,14,36,24,1.36,Blue,2022-09-01
+93,Wireless Earbuds,Accessories,2310.29,3034.58,233,1,6,6,5.98,Blue,2024-07-03
+94,Wireless Earbuds,Accessories,1242.57,1547.67,234,7,25,12,2.31,Silver,2024-03-14
+95,Realme 12,Mobile,1621.1,1814.05,275,14,23,6,3.02,Blue,2024-09-01
+96,MSI Modern,Laptop,2215.05,2715.99,68,14,20,24,1.99,Gray,2024-01-26
+97,Honor X9,Mobile,1805.26,2254.25,152,16,24,12,4.85,Gold,2023-10-13
+98,Dell 24 Monitor,Monitor,1838.95,2429.86,74,12,23,24,1.37,Silver,2022-07-30
+99,USB Flash Drive,Accessories,403.06,542.6,280,13,12,24,3.77,White,2026-07-07
+100,Bluetooth Speaker,Accessories,2445.97,3500.56,73,17,9,24,6.78,Blue,2024-09-09

@@ -1,0 +1,21 @@
+﻿brand_id,brand_name,country,founded_year,website,support_email,phone,status
+1,Apple,USA,1997,www.apple.com,support@apple.com,01597523263,Active
+2,Samsung,China,2014,www.samsung.com,support@samsung.com,01298201102,Active
+3,Dell,China,1978,www.dell.com,support@dell.com,01782522921,Active
+4,HP,South Korea,1996,www.hp.com,support@hp.com,01726625060,Active
+5,Lenovo,USA,2004,www.lenovo.com,support@lenovo.com,01412696914,Active
+6,Asus,Japan,1977,www.asus.com,support@asus.com,01587250272,Active
+7,Acer,China,2009,www.acer.com,support@acer.com,01382349393,Active
+8,Huawei,USA,1994,www.huawei.com,support@huawei.com,01428219292,Active
+9,Xiaomi,Germany,1992,www.xiaomi.com,support@xiaomi.com,01333571717,Active
+10,Oppo,Germany,1993,www.oppo.com,support@oppo.com,01430405674,Active
+11,Realme,Japan,1987,www.realme.com,support@realme.com,01661807822,Active
+12,Google,USA,2002,www.google.com,support@google.com,01570150130,Active
+13,Honor,USA,1976,www.honor.com,support@honor.com,01811003612,Active
+14,MSI,Germany,1976,www.msi.com,support@msi.com,01046652118,Active
+15,LG,Germany,1981,www.lg.com,support@lg.com,01816036722,Active
+16,AOC,USA,1985,www.aoc.com,support@aoc.com,01309792115,Active
+17,BenQ,Germany,1983,www.benq.com,support@benq.com,01635277781,Active
+18,Amazon,Japan,2006,www.amazon.com,support@amazon.com,01763632327,Active
+19,Microsoft,Japan,2004,www.microsoft.com,support@microsoft.com,01058553509,Active
+20,Razer,South Korea,1977,www.razer.com,support@razer.com,01778770166,Active
