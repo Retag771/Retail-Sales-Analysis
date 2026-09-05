@@ -37,7 +37,7 @@ This project simulates a multi-branch retail store and builds a complete analyti
 <div align="center">
 
 ### 🏠 Home
-<img src="dashboard/1_home.png" width="850" alt="Home page of the Power BI dashboard">
+<img src="https://github.com/Retag771/Retail-Sales-Analysis/blob/main/Home(1).png" width="850" alt="Home page of the Power BI dashboard">
 
 ### 💰 Sales & Profit
 <img src="dashboard/2_sales_profit.png" width="850" alt="Sales and profit analysis page">
