@@ -74,7 +74,7 @@ Query file: [`Retail_sales_store_project.sql`](Retail_sales_store_project.sql)
 
 ## Python Analysis Highlights
 
-Notebook: [`https://github.com/Retag771/Retail-Sales-Analysis/blob/main/retail-sales-deep-dive%20(3).ipynb`](retail-sales-deep-dive.ipynb)
+Notebook: [`retail-sales-deep-dive(3).ipynb`](retail-sales-deep-dive.ipynb)
 
 | Step | Description |
 |---|---|
