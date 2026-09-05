@@ -40,7 +40,7 @@ This project simulates a multi-branch retail store and builds a complete analyti
 <img src="https://github.com/Retag771/Retail-Sales-Analysis/blob/main/Home(1).png" width="850" alt="Home page of the Power BI dashboard">
 
 ### 💰 Sales & Profit
-<img src="dashboard/2_sales_profit.png" width="850" alt="Sales and profit analysis page">
+<img src="https://github.com/Retag771/Retail-Sales-Analysis/blob/main/Sales%20%26%20Profit(1).png" width="850" alt="Sales and profit analysis page">
 
 *Total Sales, Total Profit, AOV, sales trend, top profitable products, and sales/profit by country & payment method.*
 
