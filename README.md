@@ -50,7 +50,7 @@ This project simulates a multi-branch retail store and builds a complete analyti
 *Inventory turnover, gross margin, profit by category/country/discount band, and promotion performance.*
 
 ### 👥 Customers & Returns
-<img src="dashboard/4_customer_returns.png" width="850" alt="Customer and returns analysis page">
+<img src="https://github.com/Retag771/Retail-Sales-Analysis/blob/main/Customer(1).png" width="850" alt="Customer and returns analysis page">
 
 *Customer count, return rate, refund analysis by reason/category, and top customers by returns.*
 
